@@ -1,0 +1,28 @@
+name: piratec
+favicon: null
+layout_spectrum: 0.37868959084153175
+typography_spectrum: 0.6337779664900154
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.05429129954427481
+  lightness: 0.231987573672086
+  saturation: 0.9741759563330561
+  rhythmicContrast: 0.015890358947217464
+purpose: []
