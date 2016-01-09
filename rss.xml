@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[piratec]]></title>
         <description><![CDATA[piratec]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/piratec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 14:18:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jan 2016 14:23:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/piratec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/719670c2-dcd3-44c4-abac-3440c7dba702.JPG">]]></description>
-            <link>undefinedf5ac2aa5-99e6-4829-afd2-2dfae76583c0/index.html</link>
+            <title><![CDATA[Peace Love Liberty]]></title>
+            <description><![CDATA[<article><h1>Peace Love Liberty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e61e7ab204e2110a3d0366ccf39dfae0e709e89.jpg"></article>]]></description>
+            <link>https://thegrid.ai/piratec/f5ac2aa5-99e6-4829-afd2-2dfae76583c0/index.html</link>
             <guid isPermaLink="false">f5ac2aa5-99e6-4829-afd2-2dfae76583c0</guid>
-            <pubDate>Sat, 09 Jan 2016 14:18:42 GMT</pubDate>
+            <pubDate>Sat, 09 Jan 2016 14:23:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
