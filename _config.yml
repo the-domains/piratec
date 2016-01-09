@@ -1,8 +1,7 @@
+name: piratec
+favicon: null
 layout_spectrum: 0.3786895908415318
-opengraph:
-  image: null
-  type: null
-  appId: null
+typography_spectrum: 0.6337779664900154
 collections:
   - index:
       path: /
@@ -15,26 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.9741759
-  lightness: 0.1362007
-  brandStrength: 0.05429129954427481
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+  brandStrength: 0.05429129954427481
+  lightness: 1
+  saturation: 0.9741759
   rhythmicContrast: 0.01589036
-typography_spectrum: 0.6337779664900154
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: piratec
+purpose: []
