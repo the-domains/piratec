@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[piratec]]></title>
+        <description><![CDATA[piratec]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jan 2016 14:02:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My New York City]]></title>
+            <description><![CDATA[<article><h1>My New York City</h1><p>NEW YORK CITY from Patrice L. on Vimeo.</p></article>]]></description>
+            <link>undefinedmy-new-york-city/index.html</link>
+            <guid isPermaLink="false">8339a94a-47e8-48e4-a577-552f49052a40</guid>
+            <pubDate>Sat, 09 Jan 2016 14:02:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
