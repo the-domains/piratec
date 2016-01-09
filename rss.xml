@@ -4,11 +4,18 @@
         <description><![CDATA[piratec]]></description>
         <link>https://thegrid.ai/piratec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 14:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jan 2016 14:39:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/piratec/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[NYC]]></title>
+            <description><![CDATA[<article><h1>NYC</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0875ee147605c5661717682e1ebcc3e2ec3e958a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/piratec/nyc/index.html</link>
+            <guid isPermaLink="false">d12e855d-24d1-4453-b98e-14ffccd2bdda</guid>
+            <pubDate>Sat, 09 Jan 2016 14:39:04 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Peace Love Liberty]]></title>
-            <description><![CDATA[<article><h1>Peace Love Liberty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e61e7ab204e2110a3d0366ccf39dfae0e709e89.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Peace Love Liberty</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d158549db22116bceb6af86279162893f784e1b.jpg"></article>]]></description>
             <link>https://thegrid.ai/piratec/f5ac2aa5-99e6-4829-afd2-2dfae76583c0/index.html</link>
             <guid isPermaLink="false">f5ac2aa5-99e6-4829-afd2-2dfae76583c0</guid>
             <pubDate>Sat, 09 Jan 2016 14:23:28 GMT</pubDate>
