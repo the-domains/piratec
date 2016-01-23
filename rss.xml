@@ -4,8 +4,15 @@
         <description><![CDATA[piratec]]></description>
         <link>https://thegrid.ai/piratec/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 17:48:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 17:30:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/piratec/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[London Bowie]]></title>
+            <description><![CDATA[<article><h1>London Bowie</h1><p>This is "London Calling" by piratec on Vimeo, the home for high quality videos and the people who love them.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9af7fec0f128ca89398ce95511d5fde3f0d369c1.jpg"></article>]]></description>
+            <link>https://vimeo.com/152130935</link>
+            <guid isPermaLink="false">3b32ccb1-52f0-41f8-8537-ba9d72ae2f2a</guid>
+            <pubDate>Sat, 23 Jan 2016 17:29:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fluctuat Nec Mergitur]]></title>
             <description><![CDATA[<article><h1>Fluctuat Nec Mergitur</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35e49e160591a84e83c0e00ea4ce1d9cf8c9adc4.png"></article>]]></description>
@@ -36,7 +43,7 @@
         </item>
         <item>
             <title><![CDATA[Empire]]></title>
-            <description><![CDATA[<article><h1>Empire</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d5eed918902a8fd37524feadb36a0653cc0a9059.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Empire</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cd320e74d9e8092ac15ae7b564597080682bcb5.jpg"></article>]]></description>
             <link>https://thegrid.ai/piratec/f13fdbf9-5109-4502-8c12-ef8a86f2ae6f/index.html</link>
             <guid isPermaLink="false">f13fdbf9-5109-4502-8c12-ef8a86f2ae6f</guid>
             <pubDate>Sun, 10 Jan 2016 07:57:34 GMT</pubDate>
